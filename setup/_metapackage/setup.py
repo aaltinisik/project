@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo12-addon-project_budget',
         'odoo12-addon-project_category',
+        'odoo12-addon-project_custom_info',
         'odoo12-addon-project_deadline',
         'odoo12-addon-project_description',
         'odoo12-addon-project_hr',
@@ -32,6 +33,7 @@ setuptools.setup(
         'odoo12-addon-project_task_material',
         'odoo12-addon-project_task_project_required',
         'odoo12-addon-project_task_pull_request',
+        'odoo12-addon-project_task_send_by_mail',
         'odoo12-addon-project_template',
         'odoo12-addon-project_template_milestone',
         'odoo12-addon-project_timeline',
